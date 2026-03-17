@@ -63,3 +63,69 @@ Product & Innovation
 > 
 20. Product Naming Brainstorm
 > "Suggest 15 creative names for a new [Product Category] that evokes a sense of [Emotion, e.g., security/speed]. Categorize them into 'Literal,' 'Metaphorical,' and 'Modern/Abstract'."
+
+21. Negative Review Response
+> "Draft a professional, empathetic, and de-escalating response to a 1-star review regarding [Specific Issue]. Ensure the response moves the conversation to a private channel (email/DM) while showing other readers we care about quality."
+> 
+22. Internal Crisis Communication
+> "Write an internal memo to the team regarding [Recent Setback, e.g., a missed deadline or pivot]. Use a tone that is transparent about the challenge but remains optimistic and focused on the 'next steps' to maintain morale."
+> 
+23. PR Press Release Draft
+> "Create a press release for our upcoming launch of [Product/Service]. Include a 'Notes to Editors' section, a boilerplate for the company, and two placeholder quotes for the CEO and a lead developer."
+> 
+Customer Insights & UX
+24. Survey Question Design
+> "Design a 5-question Net Promoter Score (NPS) survey for customers who have been with us for [Time Period]. Focus on identifying 'silent' pain points and what would make them refer us to a friend."
+> 
+25. User Onboarding Email Flow
+> "Draft a sequence of 4 emails for a new user's first week. Email 1: Welcome/Quick Win; Email 2: Feature Highlight; Email 3: Case Study/Social Proof; Email 4: Personal check-in from a founder."
+> 
+26. Website Landing Page Audit
+> "I will provide the copy for my landing page. Critique it based on the 'Conversion Rate Optimization' (CRO) framework. Identify where the 'Call to Action' (CTA) is weak and where the value proposition is unclear."
+> 
+Productivity & Tech Stack
+27. Workflow Automation Ideas
+> "I use [Tool A], [Tool B], and [Tool C]. Suggest 5 ways I can use Zapier or Make.com to automate repetitive tasks between these platforms to save 5 hours of manual entry per week."
+> 
+28. AI Tool Stack Recommendation
+> "Based on a business that focuses on [Business Type, e.g., Video Production], recommend a 'lean' AI tech stack for content creation, bookkeeping, and project management."
+> 
+29. Prompt Engineering Template
+> "Create a 'Master Prompt Template' for my employees to use when asking AI to generate reports. It should include sections for Context, Objective, Constraints, and Output Format."
+> 
+Sales & Growth Hacking
+30. High-Ticket Upsell Script
+> "Create a script for a 'Check-in Call' with an existing client. The goal is to transition the conversation from their current [Basic Plan] to our [Premium/Enterprise Plan] by highlighting the ROI of [Specific Feature]."
+> 
+31. Referral Program Structure
+> "Outline a referral program for a [Service-based business]. What should the incentive be for the 'Referrer' and the 'Referred'? Provide the text for a simple email they can send to their network."
+> 
+32. Podcast Guest Pitch
+> "Write a pitch to the host of [Podcast Name]. Explain why I (as a founder of [Company]) am a perfect guest to talk about [Topic], and provide three specific 'hooks' or 'lessons' their audience will learn from me."
+> 
+Finance & Scaling
+33. Unit Economics Breakdown
+> "Explain how to calculate Customer Acquisition Cost (CAC) vs. Lifetime Value (LTV) for a [Business Model]. Provide a checklist of all the hidden costs I should include in my CAC calculation."
+> 
+34. Pricing Strategy Comparison
+> "Compare a 'Tiered Pricing' model vs. a 'Pay-per-user' model for my [Product/Service]. List the pros and cons for each regarding revenue predictability and customer friction."
+> 
+35. Investment Pitch Deck Outline
+> "Create a 10-slide outline for a Seed Round pitch deck. For each slide, tell me the 'one big question' the investor is looking to have answered."
+> 
+Leadership & Professional Development
+36. Executive Summary Writing
+> "Take this 20-page industry report on [Topic] and summarize it into 5 'Executive Takeaways' and 3 'Actionable Threats' our company needs to address this quarter."
+> 
+37. Time Audit & Delegation
+> "I will list my tasks for the last 48 hours. Help me categorize them using the 'Eisenhower Matrix' and identify which 20% of tasks are generating 80% of my results."
+> 
+38. Difficult Conversation Script
+> "Script a conversation for a manager who needs to tell a high-performing employee that they are being passed over for a promotion this time, focusing on a clear 'growth roadmap' for the future."
+> 
+39. Vision & Mission Refinement
+> "Our current mission statement is '[Statement]'. It feels generic. Rewrite it to be more punchy, inspiring, and aligned with our core value of [Value]."
+> 
+40. Annual Goal Setting (OKRs)
+> "Help me set 3 Objectives and 3 Key Results (OKRs) for the next 12 months for a [Department, e.g., Sales] team aiming to grow by [X%]."
+> 
