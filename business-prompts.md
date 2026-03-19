@@ -128,4 +128,51 @@ Leadership & Professional Development
 > 
 40. Annual Goal Setting (OKRs)
 > "Help me set 3 Objectives and 3 Key Results (OKRs) for the next 12 months for a [Department, e.g., Sales] team aiming to grow by [X%]."
-> 
+>
+Networking & Relationship Building
+41. Strategic Partnership Pitch
+"Write a partnership proposal email to a business that offers complementary services to mine ([My Service]). Focus on how a collaboration could provide a 'win-win-win' for them, me, and our shared customer base."
+42. Post-Event Follow-up
+"I just met [Person's Name] at [Event Name]. We discussed [Topic]. Write a short, memorable LinkedIn follow-up message that references our conversation and proposes a virtual coffee chat."
+43. Mentor Request Script
+"Draft a respectful message to an industry leader I admire. Briefly explain why their work in [Specific Field] resonates with me and ask for a 15-minute 'clarity call' regarding [Specific Business Challenge]."
+Operations & Risk Management
+44. Standard Operating Procedure (SOP) Generator
+"Create a step-by-step SOP for our team on how to [Process, e.g., Onboard a new freelancer]. Include a 'Quality Check' list at the end to ensure no steps are missed."
+45. Business Continuity Plan
+) "Identify the top 3 potential 'single points of failure' in a [Business Type] and suggest a backup plan for each (e.g., if a key software goes down or a primary supplier fails)."
+46. Meeting Agenda Optimizer
+"Draft a 30-minute 'Lean Meeting' agenda for our weekly sync. Structure it to prioritize blockers and 'Next Actions' rather than just status updates."
+Advanced Marketing & SEO
+47. YouTube Script Hook Generator
+"Write 5 different 'hooks' for a YouTube video titled '[Video Title]'. Each hook should be under 15 seconds and use different psychological triggers: Curiosity, Fear, and Social Proof."
+48. Topic Cluster Strategy
+"Based on my core keyword '[Keyword]', suggest 10 'long-tail' sub-topics I should write about to build 'Topical Authority' and link them back to my main service page."
+49. Email Subject Line A/B Test
+"Give me 10 subject lines for an email about [Product Launch]. 5 should be 'Benefit-driven' and 5 should be 'Curiosity-driven'. Keep them under 40 characters for mobile users."
+Sales Psychology & Closing
+50. The 'Price Increase' Announcement
+"Draft an email to existing long-term clients announcing a price increase. Explain the 'Why' (increased value/costs) and offer them a 30-day window to lock in the old rate for one last project."
+51. Case Study Storyboard
+"Help me structure a case study for [Client Name]. Use the 'Challenge-Solution-Result' framework. Highlight a specific metric (e.g., 30% growth) as the headline."
+52. Abandoned Cart Recovery Sequence
+"Write a 3-part 'Gentle Nudge' sequence for potential clients who requested a quote but didn't respond. Focus on answering FAQs they might be stuck on."
+Leadership & Culture
+53. Core Values Brainstorm
+"Our company believes in [Idea 1] and [Idea 2]. Help me turn these into 5 'Core Values' that are actionable (e.g., instead of 'Integrity', use 'Default to Honesty')."
+54. Employee Recognition Templates
+"Write 3 templates for a 'Shout-out' in our Slack/Teams channel. One for meeting a deadline, one for helping a teammate, and one for a great creative idea."
+55. Virtual 'Town Hall' Structure
+"Plan a 45-minute monthly 'Town Hall' meeting for a remote team. Include a section for 'Celebrating Wins,' 'Company Roadmap,' and an 'Anonymous Q&A'."
+Innovation & Future-Proofing
+56. 'Premortem' Analysis
+"We are about to launch [Project Name]. Let's imagine it’s 6 months from now and it has 'failed spectacularly.' Brainstorm 5 reasons why that might have happened so we can prevent them now."
+57. Blue Ocean Strategy Search
+"In the [Current Industry], everyone competes on [Factor X]. Suggest 3 ways a new business could 'de-segment' the market and offer something entirely unique."
+58. Customer Interview Script
+"Create a script for a 20-minute 'Discovery Interview' with a potential user. The goal is to find out their 'Job to be Done' without asking leading questions about my product."
+Personal Efficiency for Founders
+59. The 'No' Template
+"Write a polite but firm 'No' template for inbound requests that don't align with my current goals (e.g., speaking gigs, low-budget projects, or 'pick your brain' meetings)."
+60. Daily Reflection Prompt
+"Give me 3 questions I should answer at the end of every workday to ensure I am staying focused on 'Deep Work' and high-leverage tasks."
