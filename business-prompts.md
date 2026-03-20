@@ -195,4 +195,64 @@ Personal Efficiency for Founders
 60. Daily Reflection Prompt
 > "Give me 3 questions I should answer at the end of every workday to ensure I am staying focused on 'Deep Work' and high-leverage tasks."
 > 
-
+61. Seasonal Promotion Strategy
+> "Develop a 4-day flash sale strategy for [Holiday/Event]. Include a teaser email, the launch announcement, a 'last chance' reminder, and a social media countdown script."
+> 
+62. Podcast Solo Episode Outline
+> "Create a 15-minute solo podcast script outline about [Industry Trend]. Include an opening hook, three main educational pillars, and a clear call to action for my service."
+> 
+63. Freelance Rate Negotiation
+> "Draft a response to a client who says, 'Your price is higher than other freelancers I’ve talked to.' Focus on the specific ROI and the 'hidden costs' of choosing a cheaper, less experienced alternative."
+> 
+64. YouTube Community Post Ideas
+> "Generate 10 engaging YouTube Community tab prompts (polls, questions, and 'behind-the-scenes' teasers) to increase engagement for a channel focused on [Niche]."
+> 
+65. Affiliate Program Outreach
+> "Write a cold outreach message to influencers in the [Niche] space. Propose an affiliate partnership for my [Product/Service] and explain why their audience specifically would benefit."
+> 
+66. Customer Testimonial Request
+> "Draft a 'frictionless' email asking a happy client for a video testimonial. Provide them with 3 simple prompts they can answer in under 60 seconds to make it easy for them."
+> 
+67. LinkedIn 'Thought Leadership' Post
+> "Write a LinkedIn post challenging a common 'myth' in the [Industry]. Use a 'contrarian' hook to grab attention and end with a question that sparks a debate in the comments."
+> 
+68. Digital Product Lead Magnet
+> "Suggest 5 ideas for a free 'Lead Magnet' (e.g., PDF, Checklist, Mini-course) that would attract high-quality leads for a [Business Type] business."
+> 
+69. Client Onboarding Welcome Video Script
+> "Write a 90-second script for a 'Welcome Video' that new clients see immediately after paying. Set expectations for communication, timelines, and the first milestone."
+> 
+70. Competitor Ad Transparency Analysis
+> "I will paste the text from my competitor's current ads. Analyze their 'Unique Selling Proposition' (USP) and suggest 3 ways my messaging can stand out as more premium."
+> 
+71. Local SEO Keyword Strategy
+> "Generate a list of 20 'near me' or location-specific keywords for a [Business Type] located in [City]. Include suggestions for Google Business Profile posts."
+> 
+72. Employee 'Stay Interview' Questions
+> "Create a list of 10 questions for a 'Stay Interview' to ask top-performing employees to ensure they are happy, challenged, and not looking for other opportunities."
+> 
+73. Webinar Script Structure
+> "Outline a 45-minute sales webinar. Break it down into: The Hook (5m), The Story/Pain (10m), The Education (20m), and The Pitch/Offer (10m)."
+> 
+74. Customer Loyalty Program
+> "Design a simple 'Points or Rewards' system for a [Business Type] that encourages repeat purchases and rewards customers for social media mentions."
+> 
+75. Retargeting Ad Script
+> "Write copy for a 'Retargeting' ad aimed at people who visited the pricing page but didn't buy. Address the 'Trust' factor and offer a limited-time 'Implementation Call' bonus."
+> 
+76. Brand Storytelling 'About Us' Page
+> "Rewrite my 'About Us' page. Move the focus from 'What we do' to 'Why we do it' and 'The problem we are obsessed with solving for our customers'."
+> 
+77. Virtual Assistant (VA) Task List
+> "I am hiring a VA for 10 hours a week. Create a prioritized list of high-impact administrative and marketing tasks they can take over to free up my time for strategy."
+> 
+78. Sales Discovery Call Framework
+> "Create a 'Discovery Call' framework using the SPIN selling method (Situation, Problem, Implication, Need-payoff) tailored for a [Product/Service] pitch."
+> 
+79. Product Launch 'Hype' Sequence
+> "Create a 7-day 'Waitlist' email sequence. Each day should reveal a small detail about the upcoming [Product] to build anticipation before the cart opens."
+> 
+80. Quarterly Business Review (QBR) Template
+> "Draft a template for a QBR meeting with a high-value client. Focus on 'Wins achieved in the last 90 days,' 'Current Blockers,' and 'Goals for the next 90 days'."
+>
+> 
