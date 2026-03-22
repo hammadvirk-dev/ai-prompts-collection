@@ -256,3 +256,63 @@ Personal Efficiency for Founders
 > "Draft a template for a QBR meeting with a high-value client. Focus on 'Wins achieved in the last 90 days,' 'Current Blockers,' and 'Goals for the next 90 days'."
 >
 > 
+81. Strategic Pivot Evaluation
+> "We are considering moving from [Current Business Model] to [New Business Model]. List 10 potential operational risks and 5 key metrics we should track during the first 30 days of this transition."
+> 
+82. YouTube 'Video Essay' Script Outline
+> "Create a deep-dive script outline for a 10-minute business documentary-style video about [Company or Industry Trend]. Focus on the 'Rise, Fall, and Lesson' storytelling structure."
+> 
+83. Influencer Campaign Brief
+> "Draft a professional campaign brief for influencers. Include the 'Campaign Objective,' 'Content Requirements' (e.g., 1x Reel, 2x Stories), 'Key Talking Points,' and 'What to Avoid'."
+> 
+84. Subscription Cancellation Recovery
+> "Write a 'Churn Reduction' email for a user who just cancelled their subscription. Offer a one-time 'Pause' option or a 'Downsell' to a lower-tier plan to keep them in the ecosystem."
+> 
+85. High-Ticket Closing Questions
+> "Generate 10 'Probing Questions' for a high-ticket sales call that help the prospect realize the 'Cost of Inaction' if they don't solve [Problem] within the next 3 months."
+> 
+86. LinkedIn Newsletter Strategy
+> "Suggest a theme and 4 weekly topics for a LinkedIn Newsletter aimed at [Target Audience]. Focus on 'Insider Secrets' and 'Actionable Tactics' that aren't common knowledge."
+> 
+87. User Interface (UI) Feedback Prompt
+> "I am uploading a screenshot of my app/website dashboard. Act as a UX Expert and identify 3 areas where the 'User Flow' is confusing and suggest 'Micro-copy' changes to fix them."
+> 
+88. Partnerships 'Cold Deck' Outline
+> "Create a 5-slide 'Pitch Deck' outline for potential brand partners. Focus on 'Audience Alignment,' 'Engagement Stats,' and 'Past Success Stories'."
+> 
+89. Freelancer 'Trial Task' Design
+> "I am hiring a [Job Title]. Design a 2-hour 'Paid Trial Task' that effectively tests their technical skills, communication, and ability to meet a tight deadline."
+> 
+90. Customer Referral 'Thank You' Note
+> "Write a handwritten-style email to a client who just referred a new lead to us. Make it feel personal and explain exactly how we plan to reward their loyalty."
+> 
+91. Product Comparison Table Copy
+> "Create a comparison table between [My Product] and [Main Competitor]. Focus on 5 specific 'Value Drivers' where we clearly outperform them for [Specific User Type]."
+> 
+92. Google Business Profile Optimization
+> "Write 3 highly optimized 'Update' posts for my Google Business Profile. Use keywords related to [Service] and include a strong 'Call to Action' to 'Book a Consultation'."
+> 
+93. 'Founders Story' Social Media Thread
+> "Write a 7-part 'X/Twitter Thread' telling the story of why I started [Company]. Focus on the 'Rock Bottom' moment and the 'Aha!' realization that led to our current success."
+> 
+94. Affiliate Marketing 'Swipe File'
+> "Create a set of 3 pre-written social media captions and 2 email templates that my affiliates can use to promote [Product] without having to write their own copy."
+> 
+95. Podcast 'Cold Guest' Pitch
+> "Write an email to a high-profile guest asking them to be on my podcast. Explain exactly how appearing on the show will help them promote their new [Book/Project]."
+> 
+96. Employee Onboarding 'Culture' Handbook
+> "Draft the 'Introduction' section for a new hire handbook. Explain our philosophy on 'Deep Work,' 'Asynchronous Communication,' and 'Extreme Ownership'."
+> 
+97. Pricing 'Anchoring' Strategy
+> "I have three plans: [Plan A], [Plan B], and [Plan C]. Help me rewrite the descriptions so that [Plan B] looks like the obvious 'Best Value' choice for most users."
+> 
+98. Customer 'Win-Back' Sequence
+> "Draft a 2-email sequence for clients who haven't worked with us in over 6 months. Offer a 'Welcome Back' discount and ask for feedback on why they stopped using our services."
+> 
+99. Viral 'Giveaway' Funnel
+> "Outline a 5-day viral giveaway strategy. Define the 'Entry Requirements' to maximize social shares and the 'Follow-up Email' to convert non-winners into customers."
+> 
+100. Long-Term Vision (5-Year Plan)
+> "Act as a Business Consultant. I will describe my current business. Help me project where we could be in 5 years if we successfully automate [Process] and expand into [Market]."
+> 
