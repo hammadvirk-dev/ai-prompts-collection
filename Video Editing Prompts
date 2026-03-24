@@ -57,3 +57,61 @@
 20. Export Settings for Platforms
 > "Give me the 'Best Export Settings' for [Platform, e.g., YouTube 4K] in [Software]. Include Bitrate, Codec (H.264/H.265), and Color Space (Rec.709) for maximum clarity."
 > 
+21. Storytelling with Jump Cuts
+> "Analyze this 2-minute raw clip of a creator talking. Suggest where to apply 'internal zooms' (cutting from 100% to 115% scale) to emphasize key emotional points and maintain viewer retention."
+> 
+22. Dynamic Text Overlay Strategy
+> "Provide 10 ideas for 'Kinetic Typography' that mirror the energy of a fast-paced [Niche, e.g., Gaming/Finance] video. Include suggestions for bounce, skew, and motion blur settings."
+> 
+23. Mood-Based Soundscapes
+> "I am editing a 'Dark Documentarian' style video. List 5 layers of ambient 'room tone' and 'drone' music styles that will create a sense of tension without distracting from the narrator."
+> 
+24. B-Roll Match Cutting
+> "Identify 5 'Match Cut' opportunities in a travel sequence (e.g., matching the shape of a coffee cup to a camera lens). Describe the specific movement needed for a seamless transition."
+> 
+25. Color Grading for Skin Tones
+> "My subject's skin looks too orange/saturated due to warm lighting. Provide a step-by-step 'HSL Secondary' correction workflow to isolate and naturalize skin tones."
+> 
+26. Glitch Effect Choreography
+> "Describe a 3-second 'Digital Glitch' transition sequence. Include instructions for RGB splitting, displacement mapping, and the specific 'crunchy' SFX to pair with it."
+> 
+27. Speed Ramping for Action
+> "I have footage of a [Action, e.g., car driving/person running]. Suggest a 'Speed Ramp' curve (e.g., 100% to 500% back to 50%) to make the movement feel superhuman and cinematic."
+> 
+28. Narrative Pacing with Silence
+> "Identify 3 moments in this emotional script where I should completely 'kill' the background music to let the dialogue breathe and create a 'gut-punch' impact for the viewer."
+> 
+29. Lower Thirds Visual Design
+> "Design a minimalist 'Lower Third' for a professional interview. Suggest the font, bar thickness, opacity, and the 'Slide-in' animation duration (in frames)."
+> 
+30. L-Cuts and J-Cuts Implementation
+> "Explain how to use J-cuts (audio starts before video) and L-cuts (audio continues after video) in a two-person conversation to make the dialogue feel natural and less 'robotic'."
+> 
+31. Cinematic Letterboxing Logic
+> "Should I use a 2.35:1 'Aspect Ratio' overlay for this [Type of Video]? Explain the pros and cons of letterboxing for mobile viewers versus desktop cinematic enthusiasts."
+> 
+32. Transitioning with Sound (Swooshes)
+> "Provide a list of 5 different 'Swoosh' or 'Riser' sound effects and describe which visual transitions they pair best with (e.g., a 'Deep Whoosh' with a 'Zoom Blur')."
+> 
+33. Video Montage Sequencing
+> "Create a 30-second 'Highlight Montage' sequence for a [Type of Event]. List 10 specific shots in order, increasing in speed and intensity to match a building music track."
+> 
+34. Fixing Blurry or Soft Footage
+) "Provide the 'Unsharp Mask' or 'Sharpening' values for footage that came out slightly soft. Explain how to mask the sharpening so it doesn't create 'halos' around the subject."
+35. Split-Screen Layout Design
+> "Suggest 3 creative 'Split-Screen' layouts for a comparison video (e.g., Vertical vs. Diagonal). Describe how to use 'Cropping' and 'Edge Feathers' to make them look high-end."
+> 
+36. Stop-Motion Style Editing
+> "I want to make a 'Product Unboxing' look like stop-motion. What frame rate should I interpret the footage at, and how many frames should I 'cut out' to achieve that choppy aesthetic?"
+> 
+37. Visual Pattern Interrupts
+> "Generate 5 ideas for 'Pattern Interrupts' (e.g., a sudden black-and-white filter, a meme overlay, or a freeze-frame) to keep a viewer's brain engaged during a long explanation."
+> 
+38. Seamless Loop Creation
+> "Explain the 'End-to-Beginning' editing trick to create a 'Perfect Loop' for an Instagram Reel. Where should the sentence start and end to make the transition invisible?"
+> 
+39. Multi-Source Audio Leveling
+> "I have a voiceover, background music, and sound effects. Give me the standard 'Decibel (dB)' levels for each so the voice is crystal clear but the music still feels 'full'."
+> 
+40. 'Film Grain' and Texture Layering
+) "Suggest the best 'Blending Mode' (e.g., Overlay/Soft Light) for adding 35mm film grain to digital footage. Provide settings for 'Opacity' and 'Size' to avoid it looking fake."
