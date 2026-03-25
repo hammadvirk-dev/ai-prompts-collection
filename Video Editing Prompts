@@ -115,3 +115,62 @@
 > 
 40. 'Film Grain' and Texture Layering
 ) "Suggest the best 'Blending Mode' (e.g., Overlay/Soft Light) for adding 35mm film grain to digital footage. Provide settings for 'Opacity' and 'Size' to avoid it looking fake."
+41. Text Message Pop-up Style
+> "Design a realistic 'Text Message' pop-up animation for a video. Suggest the bubble color, font, slide-in speed, and the exact 'ping' SFX to make it look like a real phone UI."
+> 
+42. Slow-Motion Interpretation
+> "I shot footage at 60fps and 120fps. Explain how to interpret this footage onto a standard 24fps timeline to get the smoothest slow-motion without any stuttering."
+> 
+43. Clone Effect (Split Screen)
+> "Give me a step-by-step workflow for the 'Twin/Clone' effect using masking. How do I feather the edges of the mask so the lighting transition between the two subjects is invisible?"
+> 
+44. Whip Pan Transition Seamlessness
+> "I have two clips with camera pans. Tell me how to use 'Directional Blur' and 'Motion Blur' frame-by-frame over the cut to make the 'Whip Pan' transition look like a single camera move."
+> 
+45. Audio Ducking Workflow
+> "Explain how to use 'Auto-Ducking' in [Software] so that the background music automatically drops by -10dB whenever the voiceover starts, and raises smoothly when it stops."
+> 
+46. Cinematic Vignette Application
+> "Give me the percentage values for 'Feather,' 'Roundness,' and 'Midpoint' for a subtle cinematic vignette. How do I ensure it draws eyes to the center without looking like an obvious black border?"
+> 
+47. Frame Freeze and Paper Texture
+> "I want to do a 'Freeze Frame' effect where the subject stops, and the background turns into a stop-motion paper texture. Describe the layers and 'Multiply' blending modes needed for this."
+> 
+48. Isolating and Tracking Objects
+> "I want to track a glowing neon ring around a subject's arm as they move. Explain how to use the 'Roto Brush' or 'Mask Tracking' to keep the graphic locked to their body."
+> 
+49. Camera Shake Realism
+> "How do I add realistic handheld 'Camera Shake' to a perfectly static tripod shot? Provide settings for 'Wiggle' expressions or position keyframes so it doesn't look computer-generated."
+> 
+50. Advanced Subtitle Pacing
+> "Suggest a framework for 'Word-by-Word' versus 'Phrase-by-Phrase' captions. Which style should I use for a fast-paced tutorial versus a slow, dramatic story?"
+> 
+51. Color Grading Log Footage
+> "I shot in [Log Profile, e.g., S-Log3/V-Log]. What are the first three nodes or adjustment layers I should create to restore contrast, saturation, and dynamic range properly before grading?"
+> 
+52. Audio Frequency Separation
+> "The voiceover in my video is clashing with the melody of the background music. Explain how to use a Parametric EQ to 'carve out' space in the music frequencies (around 1kHz to 3kHz) for the voice."
+> 
+53. Glitch Map and Displacement
+> "Explain how to use a 'Displacement Map' using a black-and-white static noise clip to create a heavy, distorted glitch effect on a text layer."
+> 
+54. Cinematic 'Rack Focus' Simulation
+) "How can I simulate a 'Rack Focus' (shifting focus from background to foreground) on a flat 2D shot using 'Gaussian Blur' and keyframes?"
+55. Re-Timing B-Roll to Music Beats
+> "Explain the concept of 'Marker Cutting.' How do I map markers on a music track's peaks and automate my B-roll clips to snap perfectly to those beat markers?"
+> 
+56. Removing Unwanted Objects (Content-Aware)
+> "There is a distracting object in the background of my moving shot. Explain the workflow using 'Content-Aware Fill' or 'Clone Stamping' to remove it seamlessly frame-by-frame."
+> 
+57. 3D Camera Tracker for Titles
+> "I have a drone shot moving forward over a street. Explain how to use '3D Camera Tracking' to place a giant floating title text that looks like it is physically standing on the road."
+> 
+58. Film Burn & Light Leak Overlays
+> "I downloaded a light leak overlay. Which 'Blending Mode' (Screen, Linear Dodge, or Lighten) will make the orange light overlay blend naturally without washing out my subject's face?"
+> 
+59. High-Contrast Monochrome Look
+> "Describe the curves adjustment (S-curve) and contrast settings to create a 'Noir' high-contrast black and white look. How do I protect the highlights from blowing out?"
+> 
+60. Video Asset Management (Archiving)
+> "Create a folder structure template for a professional video editor to organize raw footage, proxy files, audio, SFX, graphics, and final exports before starting a project."
+> 
