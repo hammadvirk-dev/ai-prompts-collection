@@ -174,3 +174,63 @@
 60. Video Asset Management (Archiving)
 > "Create a folder structure template for a professional video editor to organize raw footage, proxy files, audio, SFX, graphics, and final exports before starting a project."
 > 
+61. AI Voiceover Matching (Dubbing)
+> "I am using an AI voiceover tool. What specific speed (e.g., 1.1x) and pitch adjustments should I make in my video editor to make the synthetic voice sound more human and synchronized with the visuals?"
+> 
+62. Cinematic 'Vertigo' (Dolly Zoom) Effect
+> "I have a shot where the camera is moving forward. How do I keyframe the 'Scale' and 'Position' to simulate a 'Dolly Zoom' or 'Vertigo Effect' where the background stretches but the subject stays the same size?"
+> 
+63. Dynamic Split-Screen Intro
+> "Design a 4-box grid split-screen intro for a travel video. Describe the timing for each box sliding in (Top-Left, Bottom-Right, etc.) and what sound effects should accompany the slides."
+> 
+64. Heavy Vignette for Horror/Suspense
+> "Describe the settings for a 'Radial Blur' combined with a heavy vignette to simulate a character losing consciousness or entering a dream sequence."
+> 
+65. Day-to-Night Color Grading Conversion
+> "I shot my footage in bright daylight but need it to look like it was shot at night. Provide the exact offset, gamma, and gain adjustments to pull the exposure down and introduce believable moonlight blues."
+> 
+66. Speed-Ramping Audio Pitch Correction
+> "When I speed ramp my video to 300%, the audio pitch goes too high. How do I check the 'Maintain Audio Pitch' box or use a shifter to keep the voice sounding natural during the ramp?"
+> 
+67. Visual Teleportation Effect (Jump Cut)
+> "Give me the frame-by-frame workflow for a 'Teleportation' jump cut. Describe where the actor should stand, the exact frame to cut, and the motion blur needed to make them disappear into thin air."
+> 
+68. 4K to 1080p 'Virtual Pan'
+> "I am editing a 4K file on a 1080p timeline. Explain how to use keyframes to do a smooth 'Virtual Pan' or 'Virtual Tilt' from left to right without losing any pixel quality."
+> 
+69. Recreating the 'Film Halation' Effect
+> "Explain how to use a 'Red Channel' blur or a glow effect set to 'Screen' to simulate analog film halation (the red glowing bleed around bright lights and edges)."
+> 
+70. Custom Glitch Text (RGB Split)
+> "Explain the step-by-step process of duplicating a text layer into Red, Green, and Blue channels and shifting their 'X-position' by a few frames to create a chromatic aberration glitch."
+> 
+71. Audio 'Pumping' for Music Videos
+> "How do I use a 'Sidechain Compressor' linked to a kick drum so the background music slightly 'ducks' and pumps every time the beat hits?"
+> 
+72. Removing Grain without Plastic Skin
+> "Provide the parameters for 'Luminance Noise Reduction' and 'Detail Recovery' so my low-light footage gets cleaned up without making my subject's face look like a plastic doll."
+> 
+73. Creating 'Cinematics' from Gaming Footage
+> "Suggest a workflow for turning standard video game captures into cinematic clips. Focus on hiding HUD elements, adding 2.35:1 aspect ratios, and using slow-motion pans."
+> 
+74. The 'Pre-Render' Timeline Cache
+> "My timeline is lagging heavily because of heavy effects. Explain how to use 'Render Selection' or 'Render In to Out' to create a smooth playback preview without exporting the whole video."
+> 
+75. Floating 2D Graphics and Callouts
+> "Describe a UI layout for a 'Product Callout' (a line pointing to a feature with a text bubble). Explain how to track it to the product so it moves smoothly with the object."
+> 
+76. 'Meme' Green Screen Overlay Integration
+> "I downloaded a funny green screen meme. Explain how to use the 'Ultra Key' or 'Chroma Key' to remove the background and position it naturally behind my main subject using masks."
+> 
+77. Dynamic 'Scribble' or Sketch Effect
+> "Explain how to use an adjustment layer with a 'Find Edges' and 'Invert' filter to turn a 3-second action shot into a hand-drawn neon sketch."
+> 
+78. Soundstage 'Room Reverb' Simulation
+> "My audio was recorded in a tight studio, but the visual is in a large empty warehouse. Provide the 'Convolution Reverb' settings to make the voice match the massive room in the video."
+> 
+79. Transparent Video Export (Alpha Channel)
+> "I want to export an animated lower-third graphic to use on multiple videos. What specific export settings (e.g., QuickTime with GoPro CineForm or ProRes 4444) do I use to keep the transparency?"
+> 
+80. In-Software Proxy Workflow
+> "Give me the step-by-step guide to generating low-resolution 'Proxies' for heavy 4K footage so my laptop doesn't freeze while editing, and how to toggle back to 4K for the final export."
+> 
