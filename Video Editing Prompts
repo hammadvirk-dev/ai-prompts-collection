@@ -234,3 +234,63 @@
 80. In-Software Proxy Workflow
 > "Give me the step-by-step guide to generating low-resolution 'Proxies' for heavy 4K footage so my laptop doesn't freeze while editing, and how to toggle back to 4K for the final export."
 > 
+81. Cinematic Montage 'Beat-Mapping'
+> "I have a fast-paced music track. Explain how to use 'Sub-clips' or 'Automate to Sequence' using un-numbered markers to make 20 B-roll clips snap perfectly to the snare drum hits."
+> 
+82. Hyperlapse Smoothing Workflow
+> "I shot a walking hyperlapse on my phone and it is very shaky. Explain the settings for 'Warp Stabilizer' (Smooth Motion vs. No Motion) and how to crop it so it looks like a motorized gimbal shot."
+> 
+83. Visual 'Split-Tone' Color Grading
+> "Provide the exact Hue/Saturation/Luminance (HSL) wheel coordinates to create a cinematic 'warm highlights and cold shadows' look for a dramatic short film."
+> 
+84. Seamless Audio Loops for Backgrounds
+> "I have a 30-second music track but my video is 2 minutes long. Explain the 'Zero-Crossing' audio cutting technique to loop the track seamlessly without an audible pop or click."
+> 
+85. Dynamic Zoom (Ken Burns) for Photos
+> "I am using static photos in my video. Give me the keyframe values for 'Scale' (e.g., 100% to 115%) and 'Position' over a 5-second duration to make the images feel like live footage."
+> 
+86. Kinetic Subtitle Bounce Effect
+> "How do I use the 'Transform' effect and keyframe the 'Scale' from 0% to 115% to 100% over 5 frames to create a modern, high-retention text pop?"
+> 
+87. Multi-Camera Audio Syncing (PluralEyes Style)
+> "I have audio from a lavalier mic and scratch audio from 3 cameras. Explain the step-by-step process of using 'Synchronize by Audio Waveform' to align them automatically."
+> 
+88. Advanced 'Luma Fade' Transition
+> "Explain how to use a 'Gradient Wipe' or 'Luma Matte' so that the brightest parts of the next scene bleed into the dark parts of the current scene during a transition."
+> 
+89. Color Matching Different Cameras
+> "I shot an interview with a Sony camera and an iPhone. Explain how to use the 'Color Match' tool or comparison view to ensure the skin tones and contrast look identical."
+> 
+90. Custom Twitch/Stream Alert Overlays
+> "Describe the visual hierarchy and 'Opacity' blending modes needed to place a transparent neon 'New Follower' alert overlay naturally on top of 60fps gameplay footage."
+> 
+91. Simulated 3D Parallax on a 2D Image
+> "Explain how to cut a subject out of a static photo using Photoshop, import both layers into a video editor, and use 'Z-Space' camera movement to create a 3D parallax effect."
+> 
+92. Video Compression for WhatsApp/Discord
+> "Give me the exact bitrate (Mbps) and resolution settings to compress a 1-minute 1080p video under 25MB without making it look pixelated or washed out."
+> 
+93. Retro 'VHS' Overlay and Tape Glitch
+> "Describe how to stack a 4:3 crop, a chromatic aberration effect, and a 'Noise' filter to simulate a realistic 1990s vintage VHS home video look."
+> 
+94. Vocal Compression and De-Essing
+> "My voiceover has harsh 'S' and 'T' sounds. Provide the frequency threshold (typically between 5kHz and 8kHz) and reduction settings for a De-Esser plugin to smooth it out."
+> 
+95. 'Invisible' Seamless Mask Cut
+> "An actor walks past the camera, blocking the entire lens for a split second. Explain how to use a 'Draw Mask' frame-by-frame on that object to reveal the next scene invisibly."
+> 
+96. Speed Ramping with Optical Flow
+> "I am slowing a standard 24fps clip down to 50% slow-motion. Explain how to use 'Optical Flow' frame-interpolation to generate artificial frames so it doesn't look choppy."
+> 
+97. Cinematic Title Tracking (Tilt-Shift)
+> "Explain how to apply a heavy blur on the top and bottom of a landscape shot (Tilt-Shift) and track a 3D tracking title right in the sharp center of the frame."
+> 
+98. Multi-Layered Sound Design for Impacts
+> "Suggest a stack of 4 distinct sound effects (a deep sub-boom, a high-frequency metal shink, a glass shatter, and a riser) to make a title card impact feel massive."
+> 
+99. Grading White Balance Errors
+> "My footage was accidentally shot with a tungsten white balance outdoors, making it extremely blue. Give me the step-by-step color temperature slider values to restore natural daylight."
+> 
+100. Ultimate Render and Queue Optimization
+> "Explain how to use a background media encoder (like Adobe Media Encoder) to queue up 10 different video versions while continuing to edit a new timeline without system lag."
+> 
