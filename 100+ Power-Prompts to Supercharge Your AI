@@ -24,3 +24,27 @@ Whether you're looking to boost productivity, spark creativity, or simplify comp
  * The Travel Agent: "Plan a 3-day budget-friendly itinerary for a trip to [City] that focuses on [Interests, e.g., street food and art galleries]."
  * The Meal Planner: "Give me a weekly meal plan for a [Dietary Type, e.g., Vegan] diet that requires less than 30 minutes of prep time per meal."
  * The Interview Prep: "I am interviewing for a [Job Title] position. Ask me 5 challenging behavioral interview questions one by one and give me feedback on my answers."
+🧠 Logic & Critical Thinking
+ * The Mental Model Explorer: "Explain [Topic] using the concept of First Principles Thinking to break it down into its most basic truths."
+ * The Bias Detector: "Read this argument and identify any logical fallacies or cognitive biases present in the reasoning: [Paste Text]."
+ * The Pre-Mortem: "I am about to launch [Project/Idea]. Imagine it has failed one year from now. List the most likely reasons why it failed so I can prevent them."
+ * The Pareto Optimizer: "I want to master [Skill]. Identify the 20% of concepts that will give me 80% of the results."
+ * The Scenario Builder: "Create three different future scenarios for the [Industry] industry based on current trends in AI and automation."
+🎨 Lifestyle & Creativity
+ * The Interior Designer: "I have a small [Room Type] with [Color] walls. Suggest a minimalist layout and a color palette for furniture that makes the space feel larger."
+ * The Gift Scout: "Suggest 5 unique, thoughtful gift ideas for a [Age]-year-old who loves [Interest] and hates [Dislike], with a budget of [Amount]."
+ * The Habit Architect: "Design a science-backed morning routine for someone who struggles with energy levels and needs to be at work by 8:00 AM."
+ * The Fitness Strategist: "Create a 4-week workout plan for a total beginner whose goal is to [Goal, e.g., run a 5k or build strength] using only bodyweight exercises."
+ * The Playlist Curator: "List 15 songs that fit a '[Specific Mood, e.g., Dark Academia or Lo-fi Productivity]' vibe, including both well-known and indie artists."
+💼 Career & Professional Growth
+ * The Resume Tailor: "Based on this job description [Paste JD], rewrite the 'Experience' section of my resume to highlight my most relevant achievements: [Paste Resume]."
+ * The Negotiation Coach: "I am asking for a raise in my role as a [Job Title]. Provide a script for the conversation, including how to handle a 'not at this time' response."
+ * The Networking Hook: "Write a short, engaging LinkedIn connection request for a senior professional in [Industry] that doesn't sound like a template."
+ * The Leadership Mentor: "I am dealing with a team member who is [Describe Behavior]. How should I approach this conversation to improve performance while maintaining morale?"
+ * The Executive Summary: "Turn this 2,000-word report into a one-page executive summary for a busy CEO: [Paste Report]."
+🛠️ Advanced Utility & Tech
+ * The Regex Helper: "Write a Regular Expression (Regex) to validate a string for [Criteria, e.g., a complex password with specific symbols] and explain how it works."
+ * The SQL Query Builder: "Write a SQL query that joins the 'Users' table and 'Orders' table to find the top 5 spenders in the last 30 days."
+ * The Prompt Engineer: "I want you to become my 'Prompt Creator.' Ask me questions about my goal until you have enough information to write the perfect prompt for me."
+ * The Data Visualizer: "I have a dataset with [Description of Data]. Suggest the best types of charts to represent this information for a presentation."
+ * The Security Auditor: "Review this snippet of code for potential security vulnerabilities like SQL injection or XSS: [Paste Code]."
